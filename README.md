@@ -71,6 +71,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
       width="40" height="40" />
   </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform"
+         width="40" height="40" />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" />
