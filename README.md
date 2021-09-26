@@ -61,7 +61,7 @@
       width="40" height="40" />
   </a>
   <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform"
+    <img src="https://www.terraform.io/assets/images/logo-text-8c3ba8a6.svg" alt="terraform"
          width="40" height="40" />
   </a>
   <a href="https://www.nginx.com" target="_blank">
