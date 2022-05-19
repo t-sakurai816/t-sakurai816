@@ -19,9 +19,6 @@
   <a href="https://zenn.dev/t_sakurai">
     <img height="20" src="https://zenn.badge.nikaera.com/s/t_sakurai/articles" />
   </a>
-  <a href="https://zenn.dev/t_sakurai">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/t_sakurai/books" />
-  </a>
   <a href="http://qiita.com/t-sakurai816">
     <img height="20" src="https://qiita-badge.apiapi.app/s/t-sakurai816/posts.svg" />
   </a>
