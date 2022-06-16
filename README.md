@@ -79,6 +79,14 @@
   </a>
 </p>
 
+## Certification
+<p align="left">
+  <a href="https://www.credly.com/badges/a3d0d8c0-b6a4-4b0d-b8b7-fdb46442cad7/public_url" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="figma" width="60" height="60"/>
+  </a>
+</p>
+
+  
 ### Connect with me:
 <p align="left">
   <a href="https://twitter.com/devsaku" target="blank">
