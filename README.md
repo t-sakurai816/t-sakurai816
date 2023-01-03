@@ -86,6 +86,13 @@
   </a>
 </p>
 
+## My instruction manual
+
+1. I often check menschons and named chats.
+1. I try a lot of things. If I am wrong, please stop me.
+1. 単I am not good at simple tasks and feel down. However, I will do what must be done!
+1. Conversely, "Please make simple tasks more efficient!" makes me feel good about my job.
+
   
 ### Connect with me:
 <p align="left">
