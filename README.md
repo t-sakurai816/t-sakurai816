@@ -33,8 +33,6 @@
 
 ## Learning 👨‍💻
 
-Goocle Cloud, GKE, k8s, Sysdig
-
 <p align="left">
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
